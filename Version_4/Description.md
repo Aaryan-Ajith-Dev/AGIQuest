@@ -1,0 +1,1 @@
+This version is of the situation of a single agent which can collaborate with a dummy agent and also this combines with ability to hire new employees by the agent company.
