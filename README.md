@@ -70,3 +70,8 @@ jupyter notebook
    - Create the agent preprocessor
    - Initialize DQN agents
    - Train the agents
+
+
+## Report
+- A detailed analysis can be found in the following ![report](./https://github.com/Aaryan-Ajith-Dev/AGIQuest/blob/main/RL_Report.pdf).
+
