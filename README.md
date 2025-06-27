@@ -73,5 +73,5 @@ jupyter notebook
 
 
 ## Report
-- A detailed analysis can be found in the following ![report](./https://github.com/Aaryan-Ajith-Dev/AGIQuest/blob/main/RL_Report.pdf).
+- A detailed analysis can be found in the following ![report](./https://github.com/Aaryan-Ajith-Dev/AGIQuest/RL_Report.pdf).
 
